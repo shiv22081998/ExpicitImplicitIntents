@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExternalInternalApp</string>
+    <string name="contact_app">Contact App</string>
+    <string name="create_new_contact">CREATE NEW CONTACT</string>
+</resources>
